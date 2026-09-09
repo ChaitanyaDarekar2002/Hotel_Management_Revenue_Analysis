@@ -76,7 +76,8 @@ DAX measures were created to calculate important KPIs such as:
 
 ## 📊 Dashboard Visualizations
 
-The dashboard includes:
+<img width="1905" height="974" alt="Screenshot 2026-09-09 130241" src="https://github.com/user-attachments/assets/68d33e7b-eb81-40a6-8784-8a9a70421769" />
+
 
 ### Revenue Analysis
 - Revenue by City
