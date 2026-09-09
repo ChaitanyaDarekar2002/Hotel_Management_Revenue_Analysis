@@ -61,7 +61,8 @@ DAX measures were created to calculate important KPIs such as:
 
 ## 📈 4️⃣ Dashboard
 
-The **Hotel Revenue Analysis Dashboard** provides an overview of hotel business performance.
+<img width="1907" height="973" alt="Screenshot 2026-09-09 130040" src="https://github.com/user-attachments/assets/8fafd560-3760-4bd8-8a73-ee6a7acb5e37" />
+
 
 ### 📌 Key KPIs
 
