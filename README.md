@@ -131,6 +131,8 @@ The dashboard analyzes revenue and performance across different room categories:
 This helps understand which room categories contribute most to hotel revenue.
 
 ---
+<img width="1898" height="974" alt="Screenshot 2026-09-09 130334" src="https://github.com/user-attachments/assets/e21416d9-ce6b-4fa6-9d45-190b7b2b4c49" />
+
 
 ## 🔍 Key Insights
 
